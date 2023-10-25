@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvin Cuenco</h1>
-<h3 align="center">a student from TUP Manila</h3>
+<h3 align="center">Fresh Graduate from TUP Manila</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/8ZDLU43omvcAAAAM/kid-thumbs-up.gif">
 
 - 🌱 I’m currently learning **Javascript and Frameworks**
