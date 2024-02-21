@@ -2,7 +2,7 @@
 <h3 align="center">Fresh Graduate from TUP Manila</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/8ZDLU43omvcAAAAM/kid-thumbs-up.gif">
 
-- 🌱 I’m currently learning **Javascript and Frameworks**
+- 🌱 I’m currently learning **Power Bi, SQL and Data Analysis!!!**
 
 - 💬 Ask me about **Anything**
 
